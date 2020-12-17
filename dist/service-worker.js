@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.f79915dd775f9a82a66429b41b4ca573.js"
+  "/precache-manifest.b1eb0de5d24787364d7a9c66cdc26b6f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "garage-sale"});
