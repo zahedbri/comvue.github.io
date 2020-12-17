@@ -1,4 +1,4 @@
-# Vue Garage Sale
+# Comvue
 Progressive Web App with [Vue.js](https://vuejs.org/), [Cosmic JS](https://cosmicjs.com), and [Vuetify](https://vuetifyjs.com/en/)
 
 ![Garage Sale Main Screen](https://cosmic-s3.imgix.net/df659b40-bb61-11e8-ac9f-67e4f371d8e5-garage.jpg?w=1000)
